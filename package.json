@@ -1,0 +1,15 @@
+{
+  "name": "dero-wallet",
+  "version": "1.0.0",
+  "description": "Dero Desktop Wallet macOS",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Manny",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.1"
+  }
+}
